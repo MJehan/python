@@ -1,3 +1,3 @@
-char=input()
+char=input("enter a character")
 ascii=ord(char)
 print(ascii)
